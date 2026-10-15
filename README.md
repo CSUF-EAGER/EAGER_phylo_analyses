@@ -10,6 +10,6 @@ To demonstrate this we will look at chromosome 9 of the human genome which conta
 3. Then run: `git lfs install`
 
 ### Clone the repo
-1. Open a terminal and run the command ```git clone https://github.com/CSUF-EAGER/EAGER_phylo_analyses```
+1. Open a terminal and run the command ```git clone https://github.com/CSUF-EAGER/EAGER_phylo_analyses.git```
 2. Go into the directory `cd EAGER_phylo_analyses`
 3. Follow the instructions in ARG_demo.ipynb
