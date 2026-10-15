@@ -5,7 +5,7 @@ To demonstrate this we will look at chromosome 9 of the human genome which conta
 
 ## Getting Started
 ### Setting up environment
-1. Open a (Nautilus Server)[https://tsc.fullerton.edu/supercomputing/nautilus.html] with the data science stack and medium compute
+1. Open a [Nautilus Server](https://tsc.fullerton.edu/supercomputing/nautilus.html) with the data science stack and large resources
 2. In the terminal of the server run: `conda install conda-forge::git-lfs`
 3. Then run: `git lfs install`
 
